@@ -1,2 +1,3 @@
-MemoWave is dedicated to neuroscience.
+MemoWave
 ========
+This section is dedicated to neuroscience.
