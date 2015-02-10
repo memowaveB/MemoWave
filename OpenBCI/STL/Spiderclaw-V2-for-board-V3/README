@@ -3,9 +3,9 @@
 Instructions for Spiderclaw V2 adapted to OpenBCI board V3.
 
 1) You need 5 capscrews to assembly the printed headware :
-Two M3 x 2,5 cm length
-Two M3 x 3 cm length cut to 2,8cm
-One M2 x 1 cm length
+Two M3 x 2,5 cm length (for the top of the Headware_Body.STL)
+Two M3 x 3 cm length cut to 2,8cm (for the bottom of the Headware_Body.STL, in order to attached the BatteryHolder)
+One M2 x 1 cm length (for the Headware_Body_Tongue.STL)
 
 2) You also need a car strap that you cut at your desired length for your forehead.
 The width of the strap will be ideally less than 3 cm to pass thru the hole of the 2 Headware_arm_end_belt.STL.
