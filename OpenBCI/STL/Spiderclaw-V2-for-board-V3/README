@@ -5,7 +5,7 @@ Instructions for Spiderclaw V2 adapted to OpenBCI board V3.
 1) Assembling the printed parts of headware :
 - for the top of the Headware_Body.STL = Two M3 Allen Bolt Socket Cap Screws Hex (2,5 cm length) + two M3 Nylock Nuts
 - for the bottom of the Headware_Body.STL (BatteryHolder attached) = Two M3 Allen Bolt Socket Cap Screws Hex (3 cm length cut to 2,8cm) + two M3 Nylock Nuts
-- for the Headware_Body_Tongue.STL = One M2 x 1 cm length inserted in the top middle hole.
+- for the Headware_Body_Tongue.STL = One M2 x 1 cm length inserted in the top middle hole of headware.
 
 2) Parts to hold the Spiderclaw's arms to your head :
 - for the two lateral Headware_arm_end_belt.STL = a car strap that you cut at your desired length for your forehead.
