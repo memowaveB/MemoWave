@@ -8,8 +8,9 @@ Instructions for Spiderclaw V2 adapted to OpenBCI board V3.
 - for the Headware_Body_Tongue.STL = One M2 x 1 cm length inserted in the top middle hole.
 
 2) Parts to hold the Spiderclaw's arms to your head :
-- for the two lateral Headware_arm_end_belt.STL = a car strap that you cut at your desired length for your forehead.(The width of the strap will be ideally less than 3 cm to pass thru the hole of the 2 Headware_arm_end_belt.STL.
-You attached the fabric with staples).
+- for the two lateral Headware_arm_end_belt.STL = a car strap that you cut at your desired length for your forehead.
+  (The width of the strap will be ideally less than 3 cm to pass thru the hole of the 2 Headware_arm_end_belt.STL.
+  You attached the fabric with staples).
 - for the three Headware_arm_end.STL parts = three elastic bands
 - for the arm_segment_long.STL + arm_segment_medium.STL + arm_segment_short.STL = fishing line (ultra-strong braided Spectra Fiber)
 
